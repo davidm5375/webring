@@ -1,5 +1,7 @@
 # Webring Starter Kit
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b37f2976-d284-4912-bc72-e36c23c1d9f9/deploy-status)](https://app.netlify.com/sites/thebestwebring/deploys)
+
 A boilerplate to host your own community of sites, also known as a [webring](https://en.wikipedia.org/wiki/Webring).  
 Inspired by posts from [Tatiana Mac](https://twitter.com/TatianaTMac/status/1114388079630929926) and [Charlie Owen](https://www.sonniesedge.net/posts/webrings).
 
